@@ -8,6 +8,28 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     </head>
     <body>
-        <h1>New Web Project Page</h1>
+    	<div id="container">
+    		<h1>jQuery FAQ Slider</h1>
+    		<div class="title"><h3>FAQ Slider Using jQuery</h3></div>
+    		<ul class="faq">
+    			<li class="q"><img src="img/arrow.png" />Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    			<li class="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fringilla ultrices elit at fermentum. Integer ornare et ante vel congue. Ut accumsan arcu ex, eget tempor est aliquet sit amet. Vestibulum gravida lacus a leo bibendum eleifend. Donec vehicula pretium rhoncus. Vivamus ullamcorper metus vitae blandit volutpat. Donec id tempus dui. Sed at tortor imperdiet nisi imperdiet gravida.</li>
+    			
+    			<li class="q"><img src="img/arrow.png" />Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    			<li class="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fringilla ultrices elit at fermentum. Integer ornare et ante vel congue. Ut accumsan arcu ex, eget tempor est aliquet sit amet. Vestibulum gravida lacus a leo bibendum eleifend. Donec vehicula pretium rhoncus. Vivamus ullamcorper metus vitae blandit volutpat. Donec id tempus dui. Sed at tortor imperdiet nisi imperdiet gravida.</li>
+    			
+    			<li class="q"><img src="img/arrow.png" />Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    			<li class="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fringilla ultrices elit at fermentum. Integer ornare et ante vel congue. Ut accumsan arcu ex, eget tempor est aliquet sit amet. Vestibulum gravida lacus a leo bibendum eleifend. Donec vehicula pretium rhoncus. Vivamus ullamcorper metus vitae blandit volutpat. Donec id tempus dui. Sed at tortor imperdiet nisi imperdiet gravida.</li>
+    			
+    			<li class="q"><img src="img/arrow.png" />Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    			<li class="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fringilla ultrices elit at fermentum. Integer ornare et ante vel congue. Ut accumsan arcu ex, eget tempor est aliquet sit amet. Vestibulum gravida lacus a leo bibendum eleifend. Donec vehicula pretium rhoncus. Vivamus ullamcorper metus vitae blandit volutpat. Donec id tempus dui. Sed at tortor imperdiet nisi imperdiet gravida.</li>
+    			
+    			<li class="q"><img src="img/arrow.png" />Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    			<li class="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fringilla ultrices elit at fermentum. Integer ornare et ante vel congue. Ut accumsan arcu ex, eget tempor est aliquet sit amet. Vestibulum gravida lacus a leo bibendum eleifend. Donec vehicula pretium rhoncus. Vivamus ullamcorper metus vitae blandit volutpat. Donec id tempus dui. Sed at tortor imperdiet nisi imperdiet gravida.</li>
+    			
+    			<li class="q"><img src="img/arrow.png" />Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    			<li class="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fringilla ultrices elit at fermentum. Integer ornare et ante vel congue. Ut accumsan arcu ex, eget tempor est aliquet sit amet. Vestibulum gravida lacus a leo bibendum eleifend. Donec vehicula pretium rhoncus. Vivamus ullamcorper metus vitae blandit volutpat. Donec id tempus dui. Sed at tortor imperdiet nisi imperdiet gravida.</li>
+    		</ul>
+    	</div>
     </body>
 </html>
