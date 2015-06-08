@@ -13,6 +13,8 @@ $(document).ready(function(){
 			.siblings('li.a').slideUp();
 		//Remove Rotate Class from all incative icons, and leave only on active
 		var img = $(this).children('img');
-		
+		$('img').not(img).removeClass('rotate');
+		//Toggle rotate Class
+		img.toggleClass('rotate');
 	});
 });
