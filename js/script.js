@@ -6,6 +6,9 @@ var speed = 500;
 
 $(document).ready(function(){
 	$('li.q').on(action,function(){
-		$(this).next().slideToggle(speed);
+		$(this)
+			.next().slideToggle(speed)
+			.siblings('li.a').slideUp();
+		var img = $(this).children('img');
 	});
 });
